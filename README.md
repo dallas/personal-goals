@@ -4,7 +4,7 @@ Inspired by [Una Kravet's](https://github.com/una) [repo](https://github.com/una
 
 # Overarching Goals for 2016
 
-1. Be a better husband, brother, son, and friend
+1. Be a better husband, brother, son, friend, coworker
 1. Be more thoughtful
 1. Plan ahead!
 1. Help K3 become budgitarily free
