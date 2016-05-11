@@ -1,16 +1,47 @@
 # Personal Goals
+
 Inspired by [Una Kravet's](https://github.com/una) [repo](https://github.com/una/personal-goals) of the same name, these are my personal goals made public!
 
-# Goals for 2016
+# Overarching Goals for 2016
 
-- [ ] Help K3 become budgitarily free
-- [ ] Start a Walla Walla Developer Night
-- [ ] Fill in the rest of this repository :wink:
+1. Be a better husband, brother, son, and friend
+1. Be more thoughtful
+1. Plan ahead!
+1. Help K3 become budgitarily free
+1. Be a more focused, front-end developer
+1. Spend more time doing meaningful things
+1. Start a Walla Walla Developer Night
+1. Start a regular game night
+2. Prioritize personal health and fitness
+3. Finish all of the SDA-HPERA videos
 
 # May 8–14, 2016
 
-## This week's goals
+## This Week’s Focus
 
+Planning & preparing for our trip to Idaho.
+
+## Things I’ll Do This Week:
+
+- [ ] Clean house for house-/dog-sitter
+- [x] Make an appointment to get the car looked at in preparation for our trip
+- [ ] Figure out how much of my drumset I’m going to bring and how to pack it into the car
+- [ ] Edit at least 1 SDA-HPERA video
+- [ ] Begin planning for backyard mentee get-together
+- [ ] Eat at least 1 piece of fruit every day
+  - [x] Sunday
+  - [x] Monday
+  - [x] Tuesday
+  - [ ] Wednesday
+  - [ ] Thursday
+  - [ ] Friday
+  - [ ] Saturday
+- [ ] Drink 2 Nalgene's a day
+  - [ ] Sunday
+  - [ ] Monday
+  - [x] Tuesday
+  - [ ] Wednesday
+  - [ ] Thursday
+  - [ ] Friday
+  - [ ] Saturday
 - [x] Create outline for [k3/blueprint](https://hub.k3integrations.com/k3/blueprint) v1.0
-- [ ] Make an appointment to get the car looked at in preparation for our trip
-- [ ] Make more goals for the week…
