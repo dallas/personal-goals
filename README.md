@@ -25,14 +25,16 @@ Planning & preparing for our trip to Idaho.
 
 - [ ] Clean house for house-/dog-sitter
 - [x] Make an appointment to get the car looked at in preparation for our trip
+- [ ] Take car in for checkup
 - [ ] Figure out how much of my drumset I’m going to bring and how to pack it into the car
 - [ ] Edit at least 1 SDA-HPERA video
 - [ ] Begin planning for backyard mentee get-together
+- [ ] Design pieces for Jaimie’s baby shower
 - [ ] Eat at least 1 piece of fruit every day
   - [x] Sunday
   - [x] Monday
   - [x] Tuesday
-  - [ ] Wednesday
+  - [x] Wednesday
   - [ ] Thursday
   - [ ] Friday
   - [ ] Saturday
@@ -45,3 +47,16 @@ Planning & preparing for our trip to Idaho.
   - [ ] Friday
   - [ ] Saturday
 - [x] Create outline for [k3/blueprint](https://hub.k3integrations.com/k3/blueprint) v1.0
+
+## Things I'll Do In The Future
+
+- [ ] Plan some blog posts
+  - [ ] Tools and dev setup
+  - [ ] git aliases
+  - [ ] succulents?
+  - [ ] fun with ruby
+  - [ ] something with ES6 or TypeScript
+  - [ ] Angular 2 stuff
+  - [ ] Using package.json as a task runner/build tool
+  - [ ] webpack
+  - [ ] docker
