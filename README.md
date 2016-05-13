@@ -28,6 +28,7 @@ Planning & preparing for our trip to Idaho.
 - [x] Take car in for checkup
 - [x] Rent car for the weekend
 - [ ] Pick up rental car
+- [ ] Mow the lawn
 - [ ] Figure out how much of my drumset I’m going to bring and how to pack it into the car
 - [ ] Edit at least 1 SDA-HPERA video
 - [ ] Begin planning for backyard mentee get-together
@@ -62,3 +63,4 @@ Planning & preparing for our trip to Idaho.
   - [ ] Using package.json as a task runner/build tool
   - [ ] webpack
   - [ ] docker
+- [ ] Figure out whether or not to host my own blog (ghost on Digital Ocean?) or just post to Medium
