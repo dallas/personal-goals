@@ -35,7 +35,7 @@ Planning & preparing for our trip to Idaho.
   - [x] Monday
   - [x] Tuesday
   - [x] Wednesday
-  - [ ] Thursday
+  - [x] Thursday
   - [ ] Friday
   - [ ] Saturday
 - [ ] Drink 2 Nalgene's a day
@@ -43,7 +43,7 @@ Planning & preparing for our trip to Idaho.
   - [ ] Monday
   - [x] Tuesday
   - [ ] Wednesday
-  - [ ] Thursday
+  - [x] Thursday
   - [ ] Friday
   - [ ] Saturday
 - [x] Create outline for [k3/blueprint](https://hub.k3integrations.com/k3/blueprint) v1.0
