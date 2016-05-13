@@ -25,7 +25,9 @@ Planning & preparing for our trip to Idaho.
 
 - [ ] Clean house for house-/dog-sitter
 - [x] Make an appointment to get the car looked at in preparation for our trip
-- [ ] Take car in for checkup
+- [x] Take car in for checkup
+- [x] Rent car for the weekend
+- [ ] Pick up rental car
 - [ ] Figure out how much of my drumset I’m going to bring and how to pack it into the car
 - [ ] Edit at least 1 SDA-HPERA video
 - [ ] Begin planning for backyard mentee get-together
