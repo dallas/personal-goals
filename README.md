@@ -23,31 +23,31 @@ Planning & preparing for our trip to Idaho.
 
 ## Things I’ll Do This Week:
 
-- [ ] Clean house for house-/dog-sitter
+- [x] Clean house for house-/dog-sitter
 - [x] Make an appointment to get the car looked at in preparation for our trip
 - [x] Take car in for checkup
 - [x] Rent car for the weekend
-- [ ] Pick up rental car
-- [ ] Mow the lawn
-- [ ] Figure out how much of my drumset I’m going to bring and how to pack it into the car
+- [ ] ~~Pick up rental car~~
+- [x] Mow the lawn
+- [x] Figure out how much of my drumset I’m going to bring and how to pack it into the car
 - [ ] Edit at least 1 SDA-HPERA video
 - [ ] Begin planning for backyard mentee get-together
-- [ ] Design pieces for Jaimie’s baby shower
+- [x] Design pieces for Jaimie’s baby shower
 - [ ] Eat at least 1 piece of fruit every day
   - [x] Sunday
   - [x] Monday
   - [x] Tuesday
   - [x] Wednesday
   - [x] Thursday
-  - [ ] Friday
-  - [ ] Saturday
+  - [x] Friday
+  - [x] Saturday
 - [ ] Drink 2 Nalgene's a day
   - [ ] Sunday
   - [ ] Monday
   - [x] Tuesday
   - [ ] Wednesday
   - [x] Thursday
-  - [ ] Friday
+  - [x] Friday
   - [ ] Saturday
 - [x] Create outline for [k3/blueprint](https://hub.k3integrations.com/k3/blueprint) v1.0
 
@@ -63,4 +63,4 @@ Planning & preparing for our trip to Idaho.
   - [ ] Using package.json as a task runner/build tool
   - [ ] webpack
   - [ ] docker
-- [ ] Figure out whether or not to host my own blog (ghost on Digital Ocean?) or just post to Medium
+- [ ] Figure out whether or not to host my own blog (Ghost on Digital Ocean?) or just post to Medium
