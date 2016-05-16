@@ -15,41 +15,34 @@ Inspired by [Una Kravet's](https://github.com/una) [repo](https://github.com/una
 2. Prioritize personal health and fitness
 3. Finish all of the SDA-HPERA videos
 
-# May 8–14, 2016
+# May 15–21, 2016
 
-## This Week’s Focus
+## This Week’s Focus:
 
-Planning & preparing for our trip to Idaho.
+Let’s start blogging!
 
 ## Things I’ll Do This Week:
 
-- [x] Clean house for house-/dog-sitter
-- [x] Make an appointment to get the car looked at in preparation for our trip
-- [x] Take car in for checkup
-- [x] Rent car for the weekend
-- [ ] ~~Pick up rental car~~
-- [x] Mow the lawn
-- [x] Figure out how much of my drumset I’m going to bring and how to pack it into the car
+- [ ] Pick a topic or two to write posts about
+- [ ] Create first draft(s) of topic(s)
+- [ ] Investigate Ghost blogging platform on Heroku or DigitalOcean
+- [ ] Walla Walla Developer Night on Monday? (talk to Kevin & Nicole)
+- [ ] Text mentees -- some need to pull their grades up!
+- [ ] When would be a good evening for a mentee get-together?
+- [ ] What would be a good meal for mentee get-together? (BBQ & ice cream?)
+- [ ] Call Mom -- what dates can I come in June?
+- [ ] Paint black-on-yellow blackletter “a”
+- [ ] Drink 2 Nalgenes a day (S M T W T F S)
+- [ ] Eat at least 1 piece of fruit a day (S M T W T F S)
+- [ ] Bicycle shopping (and budgeting)
 - [ ] Edit at least 1 SDA-HPERA video
-- [ ] Begin planning for backyard mentee get-together
-- [x] Design pieces for Jaimie’s baby shower
-- [ ] Eat at least 1 piece of fruit every day
-  - [x] Sunday
-  - [x] Monday
-  - [x] Tuesday
-  - [x] Wednesday
-  - [x] Thursday
-  - [x] Friday
-  - [x] Saturday
-- [ ] Drink 2 Nalgene's a day
-  - [ ] Sunday
-  - [ ] Monday
-  - [x] Tuesday
-  - [ ] Wednesday
-  - [x] Thursday
-  - [x] Friday
-  - [ ] Saturday
-- [x] Create outline for [k3/blueprint](https://hub.k3integrations.com/k3/blueprint) v1.0
+- [ ] Find resources for increasing/focusing memory
+
+## Things I’ll Read/Watch This Week:
+
+- [ ] Organize items in my Pocket
+- [ ] Pick a few to read in support of the blog post(s)
+- [ ] Egghead.io series on [JavaScript console for Power Users](https://egghead.io/series/js-console-for-power-users)
 
 ## Things I'll Do In The Future
 
@@ -64,3 +57,5 @@ Planning & preparing for our trip to Idaho.
   - [ ] webpack
   - [ ] docker
 - [ ] Figure out whether or not to host my own blog (Ghost on Digital Ocean?) or just post to Medium
+- [ ] Plan budget for buying a bicycle
+- [ ] Buy a bicycle
