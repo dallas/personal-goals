@@ -26,14 +26,14 @@ Let’s start blogging!
 - [ ] Pick a topic or two to write posts about
 - [ ] Create first draft(s) of topic(s)
 - [ ] Investigate Ghost blogging platform on Heroku or DigitalOcean
-- [ ] Walla Walla Developer Night on Monday? (talk to Kevin & Nicole)
+- [x] Walla Walla Developer Night on Monday? (talk to Kevin & Nicole)
 - [ ] Text mentees -- some need to pull their grades up!
 - [ ] When would be a good evening for a mentee get-together?
 - [ ] What would be a good meal for mentee get-together? (BBQ & ice cream?)
 - [ ] Call Mom -- what dates can I come in June?
 - [ ] Paint black-on-yellow blackletter “a”
 - [ ] Drink 2 Nalgenes a day (S M T W T F S)
-- [ ] Eat at least 1 piece of fruit a day (S M T W T F S)
+- [ ] Eat at least 1 piece of fruit a day (~~S~~ ~~M~~ T W T F S)
 - [ ] Bicycle shopping (and budgeting)
 - [ ] Edit at least 1 SDA-HPERA video
 - [ ] Find resources for increasing/focusing memory
