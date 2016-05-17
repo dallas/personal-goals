@@ -23,7 +23,7 @@ Let’s start blogging!
 
 ## Things I’ll Do This Week:
 
-- [ ] Pick a topic or two to write posts about
+- [x] Pick a topic or two to write posts about
   - developer essentials: homebrew, git, node, npm, node-sass, webpack
   - deploying to heroku (or "how I set up my ghost blog")
 - [ ] Create first draft(s) of topic(s)
@@ -38,7 +38,7 @@ Let’s start blogging!
 - [ ] What would be a good meal for mentee get-together? (BBQ & ice cream?)
 - [ ] Call Mom -- what dates can I come in June?
 - [ ] Paint black-on-yellow blackletter “a”
-- [ ] Drink 2 Nalgenes a day (S M T W T F S)
+- [ ] Drink 2 Nalgenes a day (S ~~M~~ T W T F S)
 - [ ] Eat at least 1 piece of fruit a day (~~S~~ ~~M~~ T W T F S)
 - [ ] Bicycle shopping (and budgeting)
 - [ ] Edit at least 1 SDA-HPERA video
@@ -46,9 +46,9 @@ Let’s start blogging!
 
 ## Things I’ll Read/Watch This Week:
 
+- [ ] Egghead.io series on [JavaScript console for Power Users](https://egghead.io/series/js-console-for-power-users)
 - [ ] Organize items in my Pocket
 - [ ] Pick a few to read in support of the blog post(s)
-- [ ] Egghead.io series on [JavaScript console for Power Users](https://egghead.io/series/js-console-for-power-users)
 
 ## Things I'll Do In The Future
 
