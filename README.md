@@ -24,8 +24,14 @@ Let’s start blogging!
 ## Things I’ll Do This Week:
 
 - [ ] Pick a topic or two to write posts about
+  - developer essentials: homebrew, git, node, npm, node-sass, webpack
+  - deploying to heroku (or "how I set up my ghost blog")
 - [ ] Create first draft(s) of topic(s)
-- [ ] Investigate Ghost blogging platform on Heroku or DigitalOcean
+- [x] Investigate Ghost blogging platform on Heroku or DigitalOcean
+  - Ghost on Heroku with AWS S3: [cobyism/ghost-on-heroku](https://github.com/cobyism/ghost-on-heroku)
+  - Manually install on Linux VM (DigitalOcean): [ghost.org/installing-ghost-linux](http://support.ghost.org/installing-ghost-linux/)
+  - [How to install Ghost](https://www.howtoinstallghost.com/how-to-install-ghost-on-digital-ocean-vps/)
+  - [Install Ghost on DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-create-a-blog-with-ghost-and-nginx-on-ubuntu-14-04)
 - [x] Walla Walla Developer Night on Monday? (talk to Kevin & Nicole)
 - [ ] Text mentees -- some need to pull their grades up!
 - [ ] When would be a good evening for a mentee get-together?
