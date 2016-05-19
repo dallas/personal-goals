@@ -19,7 +19,8 @@ Inspired by [Una Kravet's](https://github.com/una) [repo](https://github.com/una
 
 ## This Week’s Focus:
 
-Let’s start blogging!
+~~Let’s start blogging!~~
+Jaimie’s Baby Shower!
 
 ## Things I’ll Do This Week:
 
@@ -33,13 +34,13 @@ Let’s start blogging!
   - [How to install Ghost](https://www.howtoinstallghost.com/how-to-install-ghost-on-digital-ocean-vps/)
   - [Install Ghost on DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-create-a-blog-with-ghost-and-nginx-on-ubuntu-14-04)
 - [x] Walla Walla Developer Night on Monday? (talk to Kevin & Nicole)
-- [ ] Text mentees -- some need to pull their grades up!
+- [x] Text mentees -- some need to pull their grades up!
 - [ ] When would be a good evening for a mentee get-together?
 - [ ] What would be a good meal for mentee get-together? (BBQ & ice cream?)
 - [ ] Call Mom -- what dates can I come in June?
 - [ ] Paint black-on-yellow blackletter “a”
-- [ ] Drink 2 Nalgenes a day (S ~~M~~ ~~T~~ W T F S)
-- [ ] Eat at least 1 piece of fruit a day (~~S~~ ~~M~~ ~~T~~ W T F S)
+- [ ] Drink 2 Nalgenes a day (S ~~M~~ ~~T~~ ~~W~~ T F S)
+- [ ] Eat at least 1 piece of fruit a day (~~S~~ ~~M~~ ~~T~~ ~~W~~ T F S)
 - [ ] Bicycle shopping (and budgeting)
 - [ ] Edit at least 1 SDA-HPERA video
 - [ ] Find resources for increasing/focusing memory
@@ -50,6 +51,12 @@ Let’s start blogging!
   - Wow! My mind ’asplode!
 - [ ] Organize items in my Pocket
 - [ ] Pick a few to read in support of the blog post(s)
+
+## Additional Things I Did This Week:
+
+- [x] Tried on the 2nd suit for Bruce’s wedding
+- [ ] Sent back the 1st suit
+- [ ] Egghead.io series on ES2015 (a.k.a. ES6)
 
 ## Things I'll Do In The Future
 
