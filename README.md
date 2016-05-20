@@ -40,7 +40,7 @@ Jaimie’s Baby Shower!
 - [ ] Call Mom -- what dates can I come in June?
 - [ ] Paint black-on-yellow blackletter “a”
 - [ ] Drink 2 Nalgenes a day (S ~~M~~ ~~T~~ ~~W~~ T F S)
-- [ ] Eat at least 1 piece of fruit a day (~~S~~ ~~M~~ ~~T~~ ~~W~~ T F S)
+- [ ] Eat at least 1 piece of fruit a day (~~S~~ ~~M~~ ~~T~~ ~~W~~ ~~T~~ F S)
 - [ ] Bicycle shopping (and budgeting)
 - [ ] Edit at least 1 SDA-HPERA video
 - [ ] Find resources for increasing/focusing memory
@@ -55,7 +55,7 @@ Jaimie’s Baby Shower!
 ## Additional Things I Did This Week:
 
 - [x] Tried on the 2nd suit for Bruce’s wedding
-- [ ] Sent back the 1st suit
+- [x] Sent back the 1st suit
 - [ ] Egghead.io series on ES2015 (a.k.a. ES6)
 
 ## Things I'll Do In The Future
